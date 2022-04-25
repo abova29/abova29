@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Снежана</h1>
 <h3 align="center">A passionate frontend developer from RUSSIA</h3>
 
+<p align="left"> <img src="https://wakatime.com/badge/user/4007a34c-b2e7-4904-a3d6-5175c688837e.svg" alt="4007a34c-b2e7-4904-a3d6-5175c688837e" /> </p>
 
 - ❤ I’m currently working on [Бот-Мейкеры](https://vk.com/serving_antifem)
 - ⛩ I do coding at my convenience.
@@ -23,8 +24,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Stats</h3>Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abova29&label=Profile%20views&color=0e75b6&style=flat" alt="abova29" /> </p><p align="left"> <img src="https://wakatime.com/badge/user/4007a34c-b2e7-4904-a3d6-5175c688837e.svg" alt="4007a34c-b2e7-4904-a3d6-5175c688837e" /> </p>
+<h3 align="center">Stats</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abova29&label=Profile%20views&color=0e75b6&style=flat" alt="abova29" /> </p>
 
 
 

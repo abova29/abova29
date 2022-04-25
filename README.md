@@ -1,2 +1,25 @@
-# -
-README ^^
+<h1 align="center">Hi 👋, I'm Снежана</h1>
+<h3 align="center">A passionate frontend developer from RUSSIA</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abova29&label=Profile%20views&color=0e75b6&style=flat" alt="abova29" /> </p>
+
+- ❤ I’m currently working on [Бот-Мейкеры](https://vk.com/serving_antifem)
+
+- ⚡ Fun fact **Этот текст был создан на сайте https://rahuldkjain.github.io/gh-profile-readme-generator/**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/http://feed.exileed.com/vk/feed/serving_antifem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://feed.exileed.com/vk/feed/serving_antifem" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abova29&show_icons=true&locale=en" alt="abova29" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abova29&" alt="abova29" /></p>
+

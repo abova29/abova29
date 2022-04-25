@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/http://feed.exileed.com/vk/feed/serving_antifem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://feed.exileed.com/vk/feed/serving_antifem" height="30" width="40" /></a>
+<a href="http://feed.exileed.com/vk/feed/serving_antifem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://feed.exileed.com/vk/feed/serving_antifem" height="30" width="40" /></a>
 <a href="https://vk.com/serving_antifem" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="https://vk.com/serving_antifem" height="30" width="40" /></a>
 </p>
 

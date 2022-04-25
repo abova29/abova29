@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abova29&label=Profile%20views&color=0e75b6&style=flat" alt="abova29" /> </p>
 
 - ❤ I’m currently working on [Бот-Мейкеры](https://vk.com/serving_antifem)
-
-- ⚡ Fun fact **Этот текст был создан на сайте https://rahuldkjain.github.io/gh-profile-readme-generator/**
+- ⛩ I do coding at my convenience.
+- ⚡ Fun fact **This text was created on the website https://rahuldkjain.github.io/gh-profile-readme-generator/**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

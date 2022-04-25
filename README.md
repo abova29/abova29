@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+-📢 You can follow them here --> https://vk.com/serving_antifem
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -16,7 +16,7 @@
 <p align="left">
 <a href="http://feed.exileed.com/vk/feed/serving_antifem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://feed.exileed.com/vk/feed/serving_antifem" height="30" width="40" /></a>
 <a href="https://vk.com/serving_antifem" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="https://vk.com/serving_antifem" height="30" width="40" /></a>
-<a href="https://boosty.to/hentaimaker" target="blank"><img align="center" src="https://github.com/abova29/abova29/blob/main/White.svg" alt="https://boosty.to/hentaimaker" height="50" width="50" /></a>
+<a href="https://boosty.to/hentaimaker" target="blank"><img align="center" src="https://github.com/abova29/abova29/blob/main/White.svg" alt="https://boosty.to/hentaimaker" height="60" width="60" /></a>
 
 </p>
 

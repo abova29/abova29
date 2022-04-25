@@ -27,6 +27,8 @@
 <h3 align="left">Stats</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abova29&label=Profile%20views&color=0e75b6&style=flat" alt="abova29" /> </p>
+[![ЪУЪ](https://img.shields.io/badge/I%20LOVE-%E2%9D%A4HENTAI-red)](https://rkn.gov.ru/) 
+https://img.shields.io/badge/I%20LOVE-%E2%9D%A4HENTAI-red
 
 
 

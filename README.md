@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Снежана</h1>
 <h3 align="center">A passionate frontend developer from RUSSIA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abova29&label=Profile%20views&color=0e75b6&style=flat" alt="abova29" /> </p><p align="left"> <img src="https://wakatime.com/badge/user/ffd66c49-92d5-4230-8b87-a1ddea6d9ab9.svg" alt="4007a34c-b2e7-4904-a3d6-5175c688837e" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abova29&label=Profile%20views&color=0e75b6&style=flat" alt="abova29" /> </p><p align="left"> <img src="https://wakatime.com/badge/user/4007a34c-b2e7-4904-a3d6-5175c688837e.svg" alt="4007a34c-b2e7-4904-a3d6-5175c688837e" /> </p>
 
 - ❤ I’m currently working on [Бот-Мейкеры](https://vk.com/serving_antifem)
 - ⛩ I do coding at my convenience.

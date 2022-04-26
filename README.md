@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Снежана</h1>
-<h3 align="center">A passionate frontend developer from RUSSIA</h3>
+ <h1 align="center">Hi 👋, I'm Снежана</h1>
+<h3 align="center">A passionate frontend developer from RUSSIA (🇷🇺)</h3>
 
 <p align="left"> <img src="https://wakatime.com/badge/user/4007a34c-b2e7-4904-a3d6-5175c688837e.svg" alt="4007a34c-b2e7-4904-a3d6-5175c688837e" /> </p>
 

@@ -20,7 +20,7 @@
 <a href="https://steamcommunity.com/id/S-MpAI/" target="blank"><img align="center" src="https://github.com/abova29/abova29/blob/main/steam.svg" alt="https://steamcommunity.com/id/S-MpAI/" height="190" width="40" /></a></p>
 
 <h3 align="left">Our website:</h3>
-<a href="https://steamcommunity.com/id/S-MpAI/" target="blank"><img align="center" src="https://sun9-58.userapi.com/s/v1/ig2/Lv6o9RfGf2-E7lpQlhFdJgdXmfJ0EjB43DkYgAE88mntcdAYKpIxJJWUtlXiKkYx9SWV7Y5c2MWtbYcaCbEtWbjY.jpg?size=1280x720&quality=95&type=album" alt="https://github.com/serving-antifem" height="80" width="190" /></a></p>
+<a href="https://github.com/serving-antifem" target="blank"><img align="center" src="https://sun9-58.userapi.com/s/v1/ig2/Lv6o9RfGf2-E7lpQlhFdJgdXmfJ0EjB43DkYgAE88mntcdAYKpIxJJWUtlXiKkYx9SWV7Y5c2MWtbYcaCbEtWbjY.jpg?size=1280x720&quality=95&type=album" alt="https://github.com/serving-antifem" height="80" width="190" /></a></p>
 <a href="https://steamcommunity.com/id/S-MpAI/" target="blank"><img align="center" src="https://sun9-82.userapi.com/s/v1/ig2/GJua1-irI9DeYZ1nYWu4YyHXFQLEF3ox5M0BAh7ULMx4AVRNke74kbsT7FNmD5TLta02UsoxqFwo72ede1JHfmol.jpg?size=622x776&quality=95&type=album" alt="https://sites.google.com/view/serving-antifem" height="200" width="190" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>

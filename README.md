@@ -42,3 +42,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abova29&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abova29&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abova29&theme=solarized_dark)
+
+<figure><embed src="https://wakatime.com/share/@Abova29/d01bcab6-ceb2-4288-8b50-447733d9cd4a.svg"></embed></figure>

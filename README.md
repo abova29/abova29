@@ -18,7 +18,7 @@
 <a href="https://vk.com/serving_antifem" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="https://vk.com/serving_antifem" height="30" width="40" /></a>
 <a href="https://boosty.to/hentaimaker" target="blank"><img align="center" src="https://github.com/abova29/abova29/blob/main/White.svg" alt="https://boosty.to/hentaimaker" height="70" width="70" /></a>
 <a href="https://steamcommunity.com/id/S-MpAI/" target="blank"><img align="center" src="https://github.com/abova29/abova29/blob/main/steam.svg" alt="https://steamcommunity.com/id/S-MpAI/" height="190" width="40" /></a></p>
-<a href="https://discord.gg/4WKjy5gdBP" target="blank"><img align="center" src="https://discordapp.com/api/guilds/937054150171197460/embed.png" alt="https://discord.gg/4WKjy5gdBP" height="70" width="400" /></a></p>
+<a href="https://discord.gg/4WKjy5gdBP" target="blank"><img align="center" src="https://discordapp.com/api/guilds/937054150171197460/embed.png" alt="https://discord.gg/4WKjy5gdBP"  /></a></p>
 
 <h3 align="left">Our website:</h3>
 <a href="https://github.com/serving-antifem" target="blank"><img align="center" src="https://sun9-58.userapi.com/s/v1/ig2/Lv6o9RfGf2-E7lpQlhFdJgdXmfJ0EjB43DkYgAE88mntcdAYKpIxJJWUtlXiKkYx9SWV7Y5c2MWtbYcaCbEtWbjY.jpg?size=1280x720&quality=95&type=album" alt="https://github.com/serving-antifem" height="80" width="190" /></a></p>
